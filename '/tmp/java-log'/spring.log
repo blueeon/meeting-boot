@@ -1,0 +1,1 @@
+2018-12-12 16:38:47.670  INFO 20231 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
